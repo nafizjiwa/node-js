@@ -14,4 +14,4 @@ REPL - read evaluation print loop. (the NODE REPL allows you to run a line of co
       - to exit type//.exit or ctrl c twice....make note of dot exit to get out. 
       - contains short cuts..
       
-NPM INIT
+NPM INIT - intializes a file from an npm external package
