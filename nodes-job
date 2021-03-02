@@ -1,0 +1,15 @@
+NODE.JS
+Is used for communicating with your computer (all local files) or server.
+
+Hyper can be used to create a beautiful and extensible experience for command-line interface users, built on open web standards. 
+
+Some commands :
+PWD - print working directory (print where we are currently)
+LS- prints what in current folder
+MKDIR - make a new directory where we are
+TOUCH - creates a new file. at command line type// touch index.js (it creates a file where you are called index.js)
+* To run the file with a specific program you at command line type* //node index.js (says use node to run file index.js)
+REPL - read evaluation print loop. (the NODE REPL allows you to run a line of code DIRECTLY, similar to a chrome console). 
+      - to acces REPL in currrent folder at command line type //node
+      - to exit type//.exit or ctrl c twice....make note of dot exit to get out. 
+      - contains short cuts. 
