@@ -4,5 +4,14 @@ THIRD - install the package. In the command line prompt in the folder you want t
 FOURTH - Enter code in to index.js file you created.
        - Add code to run package into index.js file. example --> const supervillains = require('supervillains');
        - Then function --> supervillains.random();
+       Eg.    const superheroes = require('superheroes');
+              const supervillains = require('supervillains');
+
+              var mySuperheroName = superheroes.random();
+              var mySupervillainName = supervillains.random();
+
+              console.log(mySuperheroName);
+              console.log(mySupervillainName);
+
 FIFTH - In command line prompt type //node iNdex.js (means use node to run index.js file)
 SIXTH - Funciton will run and output shown in command prompt. 
