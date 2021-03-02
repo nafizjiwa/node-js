@@ -12,4 +12,4 @@ TOUCH - creates a new file. at command line type// touch index.js (it creates a 
 REPL - read evaluation print loop. (the NODE REPL allows you to run a line of code DIRECTLY, similar to a chrome console). 
       - to acces REPL in currrent folder at command line type //node
       - to exit type//.exit or ctrl c twice....make note of dot exit to get out. 
-      - contains short cuts. 
+      - contains short cuts..
