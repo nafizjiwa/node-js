@@ -1,0 +1,10 @@
+I am using Hyper terminal to communicate not the command line (which can also be used).
+First - type npm init then terminal will ask a few question (THE SYSTEM WILL PROVIDE SUGGESTIONS FOR ANSWERS IN BRACKETS, THESE DEFAULT ARE GREAT TO USE)
+      - Questions that should have answers and not bypassed by pressing return are:   
+              - package name, version, description, and author
+              - all other questions just return for default answers.
+Second - press return when asked is this okay after you have check everything is in order ortherwise type no. (yes)
+
+NOTE* This is all done in the new file and new folder you created for this new project...the new npm package created while you are in this new folder.
+
+              
