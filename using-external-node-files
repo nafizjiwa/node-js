@@ -1,0 +1,8 @@
+FIRST - create a file in the fold you are using. example: index.js
+SECOND - choose a package from npm you want to use.
+THIRD - install the package. In the command line prompt in the folder you want to install package. //npm install package_name. 
+FOURTH - Enter code in to index.js file you created.
+       - Add code to run package into index.js file. example --> const supervillains = require('supervillains');
+       - Then function --> supervillains.random();
+FIFTH - In command line prompt type //node iNdex.js (means use node to run index.js file)
+SIXTH - Funciton will run and output shown in command prompt. 
