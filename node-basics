@@ -13,3 +13,5 @@ REPL - read evaluation print loop. (the NODE REPL allows you to run a line of co
       - to acces REPL in currrent folder at command line type //node
       - to exit type//.exit or ctrl c twice....make note of dot exit to get out. 
       - contains short cuts..
+      
+NPM INIT
