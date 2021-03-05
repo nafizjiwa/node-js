@@ -1,4 +1,7 @@
+CALLED initialize npm:
+
 I am using Hyper terminal to communicate not the command line (which can also be used).
+
 First - type npm init then terminal will ask a few question (THE SYSTEM WILL PROVIDE SUGGESTIONS FOR ANSWERS IN BRACKETS, THESE DEFAULT ARE GREAT TO USE)
       - Questions that should have answers and not bypassed by pressing return are:   
               - package name, version, description, and author
